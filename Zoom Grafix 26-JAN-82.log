@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found DOS 3.3 bootloader        
+Using disk's own RWTS                   
+T22 Found nibble count protection track 
+Writing to S6,D2                        
+T06,S0E Disk requires volume number 000 
+T06,S0E,$8E: 38 -> 35                   
+T03,S08 Disk requires volume number 000 
+T03,S08,$B7: 38 -> 35                   
+T02,S02 Volume name is DISK VOLUME 000  
+T00,S03,$91: DD -> DE                   
+T00,S06,$7A: D4 -> D5                   
+T00,S06,$AE: DD -> DE                   
+T00,S03 RWTS accepts $D4 or $D5 for the 
+first address prologue nibble.          
+T00,S02,$5E: 4CB8B6 -> 20B8B8           
+Crack complete. Press any key `         
+                                        

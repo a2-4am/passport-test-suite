@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found ProDOS bootloader         
+T00,S0B Volume name is RUNCOMP          
+Using built-in RWTS                     
+Writing to S6,D2                        
+T05,S0A Found FBFF protection check     
+T05,S0A,$95: EB -> B2                   
+T04,S0A Found anti-tamper check         
+T04,S0A,$10: F0 -> 50                   
+T02,S09 Found FBFF protection check     
+T02,S09,$35: FB -> A2                   
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        

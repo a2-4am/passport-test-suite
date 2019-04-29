@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+T00,S05 Found $BB00 protection check    
+T00,S0A might be unreadable             
+Writing to S6,D2                        
+T02,S02 Volume name is DISK VOLUME 254  
+T00,S0A is unreadable (ignoring)        
+T00,S03,$91: FF -> DE                   
+T00,S03,$9B: FF -> AA                   
+T00,S03,$35: FF -> DE                   
+T00,S03,$3F: FF -> AA                   
+T00,S02,$9E: FF -> DE                   
+T00,S02,$A3: FF -> AA                   
+T00,S02,$A8: FF -> EB                   
+T00,S04,$69: A9 -> 60                   
+T00,S04,$7D: A9 -> 60                   
+T00,S00,$4B: FEBB -> FD08               
+T00,S04,$29: AA -> 96                   
+T00,S04,$AA: 00 -> AA                   
+Crack complete. Press any key `         

@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+T00,S01 Found encrypted RWTS, key=$23   
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T0C,S07 Found AA nibble count           
+T0C,S07,$04: CE -> 60                   
+T04,S07,$B2: B5 -> AD                   
+T04,S07,$B9: D5 -> 9B                   
+T03,S00,$53: B5 -> AD                   
+T03,S00,$5A: D5 -> 9B                   
+T01,S02 Erasing serial number 000297    
+T01,S02,$B0: B5 -> AD                   
+T01,S02,$B7: D5 -> 9B                   
+T00,S0B Erasing serial number 000297    
+T00 Decrypting RWTS before writing      
+T00,S01,$07: 99 -> 2C                   
+T00,S01,$93: 4C00B8 -> ACE5B7           
+T00,S05,$15: A52F -> A900               
+Crack complete. Press any key `         

@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found David-DOS bootloader      
+Using built-in RWTS                     
+Writing to S6,D2                        
+T03 Found nibble count protection track 
+T00,S07 Found a self-decrypting         
+protection check at $BB03.              
+T00,S07,$03: 4E06BB716E0ABB40276E0F -> A
+9B548A91848A0044CA9B7                   
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        

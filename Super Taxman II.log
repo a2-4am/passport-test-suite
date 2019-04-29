@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+T20 Found nibble count protection track 
+T1F Found nibble count protection track 
+T1E Found nibble count protection track 
+T1D Found nibble count protection track 
+T1C Found nibble count protection track 
+T1B Found nibble count protection track 
+T1A Found nibble count protection track 
+T19 Found nibble count protection track 
+T18 Found nibble count protection track 
+T17 Found nibble count protection track 
+T01,S03 Found HAL Labs protection check 
+T01,S03,$28: 20 -> 60                   
+T00,S0F Switching to built-in RWTS      
+T00,S03,$6A: AD -> 96                   
+T00,S02,$FC: DA -> AD                   
+T00,S06,$84: AD -> 96                   
+T00,S02,$5D: DA -> AD                   
+Crack complete. Press any key `         

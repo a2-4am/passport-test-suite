@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+T00,S04,$F9: 13 -> 39                   
+T00,S04,$FC: 1617 -> 3C3D               
+T00,S09,$B8: 0F060D040B020900070E050C030
+A0108 -> 000D0B09070503010E0C0A080604020
+F                                       
+T00,S02,$D2: BB -> BC                   
+T00,S02,$CE: BB -> BC                   
+T00,S02,$CA: 56 -> 00                   
+T00,S02,$25: BB -> BC                   
+T00,S02,$20: BB -> BC                   
+T00,S02,$10: 56 -> 00                   
+T00,S02,$0E: BB -> BC                   
+T00,S02,$0A: BB -> BC                   
+T00,S00,$5C: B7 -> B7                   
+T00,S00,$02: B3 -> C7                   
+Writing to S6,D2                        
+Using disk's own RWTS                   
+Crack complete. Press any key `         

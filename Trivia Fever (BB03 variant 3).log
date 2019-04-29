@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found DOS 3.3 bootloader        
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T03 Found nibble count protection track 
+T02,S02 Volume name is C1983 DSR C#254  
+T00,S05 Found a self-decrypting         
+protection check at $BB03.              
+T00,S05,$6B: 0626 -> 6BF6               
+T00,S06,$0F: 99 -> 89                   
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        

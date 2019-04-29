@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found DOS 3.2 bootloader        
+T00,S00 Found RDOS 13-sector bootloader 
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T1E,S05 Found SSI protection check      
+T1E,S05,$0F: C6 -> A9                   
+T1C,S00,$19: 20A008B0 -> BD88C090       
+T00,S08,$C9: ADF6BA -> 202ABB           
+T00,S09,$89: 0A0526 -> 044868           
+T00,S0A,$75: C9D4 -> C9D5               
+T00,S0A,$8B: B7 -> 96                   
+T00,S02 Writing built-in RWTS           
+T00,S00 Writing Standard Delivery       
+bootloader                              
+Crack complete. Press any key `         
+                                        
+                                        

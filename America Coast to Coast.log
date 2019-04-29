@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found Pronto-DOS bootloader     
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T02,S00 Volume name is PRONTO-DOS V254  
+T02,S00 Disk calls a protection check   
+at $B412 before initializing DOS.       
+T02,S00,$F6: 12B4 -> 849D               
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        

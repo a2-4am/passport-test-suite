@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found DOS 3.3 bootloader        
+Using disk's own RWTS                   
+T00,S00 Found Optimum Resource disk     
+T01,S0F might be unreadable             
+Writing to S6,D2                        
+T02,S06,$20: A2 -> 60                   
+T01,S0F is unreadable (ignoring)        
+T00,S08 RWTS requires a non-standard    
+disk volume number.                     
+T00,S08,$12: B148 -> A900               
+T01,S0F Reconstructing missing data     
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        

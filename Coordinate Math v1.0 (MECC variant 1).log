@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found MECC bootloader           
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T00,S0F Switching to built-in RWTS      
+T00,S0B,$08: AA -> D5                   
+T00,S0B,$12: D5 -> AA                   
+T00,S0B,$1D: AD -> 96                   
+T00,S0B,$99: 96 -> AA                   
+T00,S0B,$A3: AA -> AD                   
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        

@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+T00,S0B Switching to built-in RWTS      
+T00,S06,$D6: D6 -> 20                   
+T00,S06,$D5: 20 -> D5                   
+T00,S06,$49: D5 -> D6                   
+T00,S05,$9B: FE -> AA                   
+T00,S05,$91: FE -> DE                   
+T00,S05,$5F: CA -> AA                   
+T00,S05,$55: A5 -> D5                   
+T00,S05,$3F: FE -> AA                   
+T00,S05,$35: FE -> DE                   
+T00,S04,$F1: CA -> AA                   
+T00,S04,$E7: FE -> D5                   
+T00,S04,$A3: FE -> AA                   
+T00,S04,$9E: FE -> DE                   
+T00,S04,$58: CA -> AA                   
+T00,S04,$53: FE -> D5                   
+T00,S0A,$12: B148 -> A900               
+Crack complete. Press any key `         

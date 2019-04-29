@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+T00,S00 Found DOS 3.3 bootloader        
+Using disk's own RWTS                   
+T22,S04 Switching to built-in RWTS      
+Writing to S6,D2                        
+T02,S02 Volume name is DISK VOLUME      
+T00,S03 RWTS requires a timing bit after
+the first data epilogue by jumping to   
+$BCF0.                                  
+T00,S03,$94: DD8CC0D0A94CF0BC -> EABD8CC
+010FBC9AA                               
+T00,S03,$91: AD -> DE                   
+T00,S03,$35: ED -> DE                   
+T00,S03,$3F: BB -> AA                   
+T00,S02,$9E: ED -> DE                   
+T00,S02,$A3: BB -> AA                   
+T00,S04,$69: A0 -> 60                   
+T00,S04,$7F: A0 -> 60                   
+Crack complete. Press any key `         

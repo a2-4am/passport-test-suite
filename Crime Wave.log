@@ -1,0 +1,24 @@
+Passport by 4am               2019-04-26
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+T18 Found nibble count protection track 
+T17 Found nibble count protection track 
+T16 Found nibble count protection track 
+T15 Found nibble count protection track 
+T14 Found nibble count protection track 
+T13 Found nibble count protection track 
+T12 Found nibble count protection track 
+T06,S0E,$91: DA -> DE                   
+T06,S0E,$35: DA -> DE                   
+T06,S00,$9E: DA -> DE                   
+T06,S0A,$4A: A52F052E -> A900852F       
+T00 Decrypting RWTS before writing      
+T00,S0E,$93: DA -> DE                   
+T00,S0E,$BF: 0820 -> F003               
+T00,S0E,$FA: DA -> DE                   
+T00,S0D,$11: 86 -> 00                   
+T00,S0D,$07: A42F -> A000               
+Crack complete. Press any key `         

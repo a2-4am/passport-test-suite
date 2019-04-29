@@ -1,0 +1,195 @@
+Tracers [test cases]
+
+* id/advent.a [Borrowed Time]
+* id/d5d5f7.a [RoboMath]
+* id/datasoft.a [Tomahawk]
+* id/daviddos.a [Horses]
+* id/davidson.a [Word Attack Plus Spanish]
+* id/dinkeydos.a [Ultima V]
+* id/diversidos.a [Moon Bingo]
+- id/dos33.a
+  - standard
+  - early Infocom with $22 in $08FE
+  - Sierra variant with graphics softswitches
+  - MUSE variant with altered sector map
+  - JMP $08F0 variant [possibly Terrapin Logo 3.0]
+* id/ea.a [Archon]
+- id/encode44.a [maybe Sneakers]
+- id/encode53.a
+* id/holle.a [Crime Wave]
+* id/jsr8b3.a [Ardy The Aardvark]
+* id/laureate.a [Sound Ideas: Word Attack]
+* id/mecc.a
+  * [Coordinate Math v1.0] variant 1
+  * [Clock Works v1.0] variant 2
+  * [Number Munchers v1.0] variant 3
+  * [Conquering Whole Numbers v1.1] variant 4
+* id/micrograms.a [Shapes and Patterns]
+* id/milliken.a [Tangram Puzzler]
+* id/panglosdos.a [Stepwise Multiple Regression]
+- id/pascal.a
+  * [NoteCard Maker] for pre-1.3
+  - pre-1.3 variant with alternate jump address [Wizardry -or- Sundog]
+  * [Triangles Through Octagons] for 1.3 variant
+* id/phoenix.a [Zoom Grafix]
+* id/prodos.a [Investigating Plant Growth]
+* id/prontodos.a [America Coast to Coast (Mindscape)]
+* id/protecteddos.a [Ultima IV]
+- id/quickdos.a [maybe Batman]
+* id/rdos.a [Roadwar 2000 v1.2]
+* id/trace32.a
+  * [Robotwar] for MUSE variant
+  * [Eggs-It] for Choplifter variant
+  * [Epidemic] for RDOS-13 variant
+- id/trace33.a
+  * [Analogies Tutorial] for pre-JSR $B800 variant
+  - [Pinball Construction Set (Budgeco)] for LDX $1FE8 variant
+  * [Super Taxman II] for current track variant
+  * [SAGA 6] for Adventure International variant
+  * [Zoom Grafix 26-JAN-82] for IDPhoenix variant
+  * [Planetfall r26] for Infocom variant
+  - Micro Fun RWTS swapper (??)
+  * [Swordthrust 1] for Swordthrust variant
+* id/trace33p.a [Ernie's Quiz]
+* id/trace8b3.a [Ardy the Aardvark]
+* id/volumename.a
+  * [Zoom Grafix] DOS 3.3
+  * [Investigating Plant Growth] for ProDOS
+  * [Notecard Maker] for Pascal
+- VerifyInfocom18
+  - Infocom side B
+  - pure 13-sector disk
+
+Patchers [test cases]
+
+* a5count.a [Game Frame One]
+* a6bc95.a [Writing Skills Volume 2 - System Disk]
+* aacount.a [Moebius]
+* advent.a
+  * [Borrowed Time]
+  * [Mindshadow]
+  * [The Tracer Sanction]
+* advint.a [SAGA 6 side B]
+* artsci.a [Photar]
+* bademu.a [Let's Go There- Beginning Map and Geography Skills]
+* bademu2.a [Dinosaur Days]
+* bb03.a
+  * [Classifying Animals with Backbones] for variant 1
+  * [Case of the Great Train Robbery] for variant 2
+  * [Alice in Wonderland] for variant 3
+* bbf9.a [Odd One Out 1990]
+* bootcounter.a [Elementary Vol. 2 v3.2 limited backup]
+- border.a [Arena -or- Early Bird]
+* c9ff.a [Mr. Pixel's Programming Paint Set]
+* choplifter.a [Eggs-It]
+* corrupter.a [Squire]
+* d5d5f7.a
+  * [RoboMath] for DOS 3.3 variant
+  * [Notecard Maker] for Pascal variant
+* dakin5.a [MIRV]
+* datasoft.a [Tomahawk]
+* davidsonasm.a [Word Attack Plus Spanish]
+* davidsonforth.a [Read N Roll]
+- diskvol.a
+  * [The Incredible Laboratory]
+  - something with PanglosDOS [maybe Diet Analysis Program]
+  * [Might and Magic] for gForceDiskVol
+- dos32.a
+  * [Bellhop] for DOS at $3700
+  - something else for DOS at $B700
+* dos32dlm.a [Demolition Division]
+* dos32muse.a [Castle Wolfenstein]
+* e7everywhere.a [Garfield Trivia Game]
+* ea.a [Archon]
+* f7f6.a [Might and Magic]
+* fbff.a [Maniac Mansion]
+* fbffencrypted.a [Oo-Topos side B]
+* fbffpascal.a [The Typewriter]
+* gamco.a [Essential Grammar]
+* hallabs.a [Super Taxman II]
+* hoffman.a [Good Thinking! Cause and Effect Level Two]
+* holle.a [Crime Wave]
+- jmpae8e.a [Alien Addition but make sure it's the right version]
+* jmpb400.a [Binomial Multiplication]
+* jmpb412.a [America Coast to Coast (Mindscape)
+* jmpb4bb.a
+  * [Bellhop] for DOS 3.2
+  * [Snooper Troops 2] for DOS 3.3
+* jmpb660.a [Analogies Tutorial]
+* jmpb720.a [Analogies Tutorial]
+* jmpbbfe.a [Quadrilaterals]
+* jmpbcf0.a [Easy as ABC]
+* jmpbeb1.a
+  * [Spelling Rules (Micro Power and Light)] for $3EB1 variant
+  * [Easy as ABC] for $BEB1 variant
+* jmpbeca.a
+  * [Spelling Rules (Micro Power and Light)] for $3ECA variant
+  * [Easy as ABC] for $BECA variant
+  * [Library Magic] for variant
+* jsr8635.a [Moon Bingo]
+* jsr8b3.a [Ardy the Aardvark]
+* laureate.a [Sound Ideas: Word Attack]
+* mecc.a
+  * [Coordinate Math v1.0] variant 1
+  * [Clock Works v1.0] variant 2
+  * [Number Munchers v1.0] variant 3
+  * [Conquering Whole Numbers v1.1] variant 4
+* memoryconfig.a [Rosie the Counting Rabbit -or- A Brand New View (neither woz seems to work but both verify)]
+- methods.a [maybe Alphabetizing: Blue Level]
+* microfun.a [Miner 2049er]
+* microfun2.a [Crown of Arthain]
+* micrograms.a [Shapes and Patterns]
+* milliken.a [Tangrams Puzzler]
+* muserwts.a [The Function Game]
+- nibtable.a
+* optimum.a [Stickybear Math]
+* origin.a [Ultima V]
+* panglosdos.a [Stepwise Multiple Regression]
+* pascalrwts.a [Solar Reading Jupiter]
+* polarware.a
+  * [The Crimson Crown side A]
+  * [Oo-Topos side B]
+* prodos6a.a [Investigating Plant Growth]
+* prodosmecc.a
+  * [Mystery Objects v1.1]
+  * [Spelling Press v1.1]
+* prodosrwts.a [Mystery Objects v1.1]
+* protecteddos.a
+  * [Ultima IV]
+  * [Moebius] for secondary RWTS swappers
+  * [Math Blaster] for secondary protection checks based on disk volume
+* rdos13.a [Epidemic]
+* rdosfmt.a [Epidemic]
+* rol1e.a [CryptoCube]
+- rwts.a
+* rwtslog.a
+  * [The Home Accountant] for BNE0 DOS 3.3
+  * [Horses] for BNE0 David-DOS
+  * [The Seasons] for LSR6A DOS 3.3
+  * [Roadwar 2000 v1.2] for LSR6A RDOS
+  * [The Seasons] for CMP08 DOS 3.3
+  * [Roadwar 2000 v1.2] for CMP08 RDOS
+* rwtsswap.a [Easy as ABC]
+* rwtsswap2.a [Mask Parade]
+* rwtsswapmecc.a [MECC Dataquest - Europe and Soviet Union v1.0]
+* rwtsswapmicrofun.a [Crown of Arthain]
+* rwtsswappenguin.a [Arcade Boot Camp]
+* sierra.a
+  * [Dragon's Keep]
+  * [Aquatron]
+  * [Mickey's Space Adventure]
+* sierra13.a
+  * [Cranston Manor]
+  * [Threshold]
+* springboard.a [Easy as ABC]
+* sra.a [Computer Drill and Instruction - Multiplication B]
+* ssi.a [Epidemic]
+* ssprot.a [Wortgefecht]
+* sunburst.a [The Incredible Laboratory]
+* swordthrust.a [Swordthrust 1]
+* t02volumename.a [Zoom Grafix]
+* t11diskvol.a [Zoom Grafix]
+* trillium.a [Rendezvous with Rama rev. 2]
+* trillium2.a [Nine Princes in Amber]
+* universale7.a [Rocky's Boots 4.0]
+* zoomgrafix.a [Zoom Grafix 26-JAN-82]
