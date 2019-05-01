@@ -7,14 +7,16 @@ Tracers [test cases]
 * id/davidson.a [Word Attack Plus Spanish]
 * id/dinkeydos.a [Ultima V]
 * id/diversidos.a [Moon Bingo]
-- id/dos33.a
-  - standard
-  - early Infocom with $22 in $08FE
-  - Sierra variant with graphics softswitches
-  - MUSE variant with altered sector map
-  - JMP $08F0 variant [possibly Terrapin Logo 3.0]
+* id/dos33.a
+  * [Binomial Multiplication] for $B600
+  * [Photar] for $3600
+  * [Planetfall r20] for $22 in $08FE
+  * [Beach-Head] for $3F in $08FE
+  * [Leisure Suit Larry] for Sierra variant with graphics softswitches
+  * [The Function Game] for MUSE variant with altered sector map
+  * [Library Magic] for JMP $08F0 variant
 * id/ea.a [Archon]
-- id/encode44.a [maybe Sneakers]
+* id/encode44.a [Sneakers]
 - id/encode53.a
 * id/holle.a [Crime Wave]
 * id/jsr8b3.a [Ardy The Aardvark]
@@ -27,28 +29,28 @@ Tracers [test cases]
 * id/micrograms.a [Shapes and Patterns]
 * id/milliken.a [Tangram Puzzler]
 * id/panglosdos.a [Stepwise Multiple Regression]
-- id/pascal.a
+* id/pascal.a
   * [NoteCard Maker] for pre-1.3
-  - pre-1.3 variant with alternate jump address [Wizardry -or- Sundog]
+  * [Wizplus] for pre-1.3 variant with alternate jump address
   * [Triangles Through Octagons] for 1.3 variant
 * id/phoenix.a [Zoom Grafix]
 * id/prodos.a [Investigating Plant Growth]
 * id/prontodos.a [America Coast to Coast (Mindscape)]
 * id/protecteddos.a [Ultima IV]
-- id/quickdos.a [maybe Batman]
+* id/quickdos.a [Kid Niki]
 * id/rdos.a [Roadwar 2000 v1.2]
 * id/trace32.a
   * [Robotwar] for MUSE variant
   * [Eggs-It] for Choplifter variant
   * [Epidemic] for RDOS-13 variant
-- id/trace33.a
+* id/trace33.a
   * [Analogies Tutorial] for pre-JSR $B800 variant
-  - [Pinball Construction Set (Budgeco)] for LDX $1FE8 variant
+  * [Pinball Construction Set (Budgeco)] for LDX $1FE8 variant
   * [Super Taxman II] for current track variant
   * [SAGA 6] for Adventure International variant
   * [Zoom Grafix 26-JAN-82] for IDPhoenix variant
   * [Planetfall r26] for Infocom variant
-  - Micro Fun RWTS swapper (??)
+  * [Crown of Arthain] for Micro Fun RWTS swapper
   * [Swordthrust 1] for Swordthrust variant
 * id/trace33p.a [Ernie's Quiz]
 * id/trace8b3.a [Ardy the Aardvark]
@@ -56,9 +58,9 @@ Tracers [test cases]
   * [Zoom Grafix] DOS 3.3
   * [Investigating Plant Growth] for ProDOS
   * [Notecard Maker] for Pascal
-- VerifyInfocom18
-  - Infocom side B
-  - pure 13-sector disk
+* VerifyInfocom18
+  * [Trinity side B] for 18-sector Infocom
+  * [Time Lord] for pure 13-sector disk
 
 Patchers [test cases]
 
