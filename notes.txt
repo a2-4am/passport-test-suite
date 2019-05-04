@@ -12,8 +12,10 @@ Tracers [test cases]
   * [Photar] for $3600
   * [Planetfall r20] for $22 in $08FE
   * [Beach-Head] for $3F in $08FE
+  * [Alf] for $13 in $08FE
   * [Leisure Suit Larry] for Sierra variant with graphics softswitches
   * [The Function Game] for MUSE variant with altered sector map
+  * [Pitfall II] for unsupported sector map
   * [Library Magic] for JMP $08F0 variant
 * id/ea.a [Archon]
 * id/encode44.a [Sneakers]
