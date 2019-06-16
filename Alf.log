@@ -1,23 +1,23 @@
-Passport by 4am               2019-04-17
+Passport by 4am               2019-06-16
                                         
  ______________________________________ 
                                         
                                         
                                         
 Reading from S6,D1                      
-T00,S00 Found DOS 3.3 bootloader        
-Using disk's own RWTS                   
+Using built-in RWTS                     
 Writing to S6,D2                        
-T09 Found nibble count protection track 
-T02,S0F Switching to built-in RWTS      
-T02,S02 Volume name is DISK VOLUME 254  
-T02,S03 Disk calls a protection check at
-$B4BB before initializing DOS.          
-T02,S03,$DE: ADFFCF -> 4C849D           
-T00,S03,$91: ED -> DE                   
-Crack complete. Press any key `         
                                         
+The disk was copied successfully, but   
+Passport did not apply any patches.     
                                         
+Possible reasons:                       
+- The source disk is not copy protected.
+- The target disk works without patches.
+- The disk uses an unknown protection,  
+  and Passport can not help any further.
+                                        
+Press any key `                         
                                         
                                         
                                         

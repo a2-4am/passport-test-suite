@@ -1,4 +1,4 @@
-Passport by 4am               2019-04-26
+Passport by 4am               2019-06-16
                                         
  ______________________________________ 
                                         
@@ -14,9 +14,9 @@ T00,S0A,$F2: D5 -> AA
 T00,S0A,$FD: AD -> 96                   
 T00,S0B,$79: 96 -> AA                   
 T00,S0B,$83: AA -> AD                   
+T00,S0C,$62: 96 -> AA                   
+T00,S0C,$67: AA -> AD                   
 Crack complete. Press any key `         
-                                        
-                                        
                                         
                                         
                                         

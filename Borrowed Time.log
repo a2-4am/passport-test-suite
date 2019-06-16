@@ -1,11 +1,11 @@
-Passport by 4am               2019-04-26
+Passport by 4am               2019-06-16
                                         
  ______________________________________ 
                                         
                                         
                                         
 Reading from S6,D1                      
-T00,SFF Found Interplay bootloader      
+T00,S00 Found Interplay bootloader      
 Using disk's own RWTS                   
 Writing to S6,D2                        
 T03,S0D,$3D: F0 -> 10                   
