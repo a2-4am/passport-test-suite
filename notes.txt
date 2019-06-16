@@ -54,7 +54,9 @@ Tracers [test cases]
   * [Planetfall r26] for Infocom variant
   * [Crown of Arthain] for Micro Fun RWTS swapper
   * [Swordthrust 1] for Swordthrust variant
-* id/trace33p.a [Ernie's Quiz]
+* id/trace33p.a
+  * [Ernie's Quiz] for variant 1
+  * [Kaves of Karkhan] for variant 2
 * id/trace8b3.a [Ardy the Aardvark]
 * id/volumename.a
   * [Zoom Grafix] DOS 3.3
