@@ -119,7 +119,8 @@ Patchers [test cases]
 * jmpb400.a [Binomial Multiplication]
 * jmpb412.a [America Coast to Coast (Mindscape)
 * jmpb4bb.a
-  * [Bellhop] for DOS 3.2
+  * [Bellhop] for DOS 3.2 $DD variant
+  * [Kamikaze] for DOS 3.2 $D7 variant
   * [Snooper Troops 2] for DOS 3.3
 * jmpb660.a [Analogies Tutorial]
 * jmpb720.a [Analogies Tutorial]
@@ -177,7 +178,7 @@ Patchers [test cases]
   * [Roadwar 2000 v1.2] for CMP08 RDOS
 * rwtsswap.a [Easy as ABC]
 * rwtsswap2.a [Mask Parade]
-* rwtsswapmecc.a [MECC Dataquest - Europe and Soviet Union v1.0]
+* rwtsswapmecc.a [MECC Dataquest - Europe and Soviet Union]
 * rwtsswapmicrofun.a [Crown of Arthain]
 * rwtsswappenguin.a [Arcade Boot Camp]
 * sierra.a
@@ -193,8 +194,10 @@ Patchers [test cases]
 * ssprot.a [Wortgefecht]
 * sunburst.a [The Incredible Laboratory]
 * swordthrust.a [Swordthrust 1]
-* t02volumename.a [Zoom Grafix]
-* t11diskvol.a [Zoom Grafix]
+* t02volumename.a
+  * [America Coast to Coast] for Pronto-DOS
+  * [Tangrams Puzzler] for Diversi-DOS
+- t11diskvol.a
 * trillium.a [Rendezvous with Rama rev. 2]
 * trillium2.a [Nine Princes in Amber]
 * universale7.a [Rocky's Boots 4.0]
