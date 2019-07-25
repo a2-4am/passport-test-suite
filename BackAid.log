@@ -8,10 +8,10 @@ Reading from S6,D1
 T00,S00 Found DOS 3.3 bootloader        
 Using disk's own RWTS                   
 Writing to S6,D2                        
-T02,S02 Volume name is DISK VOLUME      
-T00,S03,$59: BD8C -> F005               
-T00,S03 RWTS accepts $D4 or $D5 for the 
-first address prologue nibble.          
+T02,S00 Volume name is PRONTO-DOS V254  
+T02,S00 Disk calls a protection check   
+at $2012 before initializing DOS.       
+T02,S00,$EC: 1220 -> 849D               
 Crack complete. Press any key `         
                                         
                                         
