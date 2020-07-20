@@ -1,9 +1,12 @@
-Passport by 4am               2019-07-25
+Passport by 4am               2020-07-20
                                         
  ______________________________________ 
                                         
                                         
                                         
+T00,S03,$9C: F0 -> D0                   
+T00,S06,$69: 4CB8B6EAEAEA -> 20C3BC20C3B
+C                                       
 T00,S08,$8C: 69BA -> A0B9               
 T00,S03,$91: 97 -> DE                   
 T00,S03,$9B: 00 -> AA                   
@@ -18,7 +21,4 @@ T00,S02,$A8: 00 -> EB
 T00,S02,$AD: 00 -> FF                   
 T00,S04,$C0: C92269008D7804684CA0B9 -> C
 0C1C2C3C4C5C6C7C8C9CA                   
-T00,S08 RWTS requires a non-standard    
-disk volume number.                     
-T00,S08,$12: B148 -> A900               
 Crack complete. Press any key `         

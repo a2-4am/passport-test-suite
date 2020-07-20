@@ -1,4 +1,4 @@
-Passport by 4am               2019-07-25
+Passport by 4am               2020-07-20
                                         
  ______________________________________ 
                                         
@@ -7,7 +7,7 @@ Passport by 4am               2019-07-25
 Reading from S6,D1                      
 T00,S00 Found DOS 3.3 bootloader        
 Using disk's own RWTS                   
-T22 Found nibble count protection track 
+T22 is unformatted                      
 Writing to S6,D2                        
 T06,S0E Disk requires volume number 000 
 T06,S0E,$8E: 38 -> 35                   

@@ -1,4 +1,4 @@
-Passport by 4am               2019-07-25
+Passport by 4am               2020-07-20
                                         
  ______________________________________ 
                                         
@@ -9,8 +9,8 @@ T00,S00 Found DOS 3.2 bootloader
 Using disk's own RWTS                   
 Writing to S6,D2                        
 T05 Found nibble count protection track 
-T02,S0A Disk calls a protection check at
-$B4BB before initializing DOS.          
+T02,S0A Disk calls a protection check   
+at $B4BB before initializing DOS.       
 T02,S0A,$DE: ADFFCF -> 4C849D           
 T00,S02 Writing built-in RWTS           
 T00,S01,$38: 20 -> 2C                   

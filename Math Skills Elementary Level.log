@@ -1,0 +1,24 @@
+Passport by 4am               2020-07-20
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found Diversi-DOS bootloader    
+Using disk's own RWTS                   
+T00,S01 Found RPS protection check      
+Some sectors on T02 might be unreadable 
+Writing to S6,D2                        
+T02,S0F Switching to built-in RWTS      
+T02,S0A is unreadable (ignoring)        
+T02,S05 is unreadable (ignoring)        
+T02,S02 Volume name is C1984 RPS A#001  
+T00,S01,$48: C1B3 -> 849D               
+T00,S01,$8E: BC -> F9                   
+T00,S01,$92: B8 -> F2                   
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        

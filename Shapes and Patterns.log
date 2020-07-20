@@ -1,4 +1,4 @@
-Passport by 4am               2019-07-25
+Passport by 4am               2020-07-20
                                         
  ______________________________________ 
                                         
@@ -7,9 +7,9 @@ Passport by 4am               2019-07-25
 Reading from S6,D1                      
 T00,S00 Found Micrograms bootloader     
 Using built-in RWTS                     
-T22 Found nibble count protection track 
+T22 is unformatted                      
 Writing to S6,D2                        
-T21 Found nibble count protection track 
+T21 is unformatted                      
 T00,S08,$29: E5 -> 00                   
 Crack complete. Press any key `         
                                         
