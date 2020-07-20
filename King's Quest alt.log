@@ -1,0 +1,24 @@
+Passport by 4am               2020-07-20
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found DOS 3.3 bootloader        
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T0C,S08 Found anti-tamper check         
+T0C,S08,$A2: 95 -> B5                   
+T0C,S08 Found anti-tamper check         
+T0C,S08,$57: AD -> 60                   
+T0B,S0E Found anti-tamper check         
+T0B,S0E,$78: 95 -> B5                   
+T0B,S0D Found anti-tamper check         
+T0B,S0D,$C2: AD -> 60                   
+T0B,S00,$BA: 20 -> 2C                   
+T0B,S09,$F0: 20 -> 2C                   
+Crack complete. Press any key `         
+                                        
+                                        
+                                        

@@ -1,0 +1,24 @@
+Passport by 4am               2020-07-20
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found DOS 3.2 bootloader        
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T1C,S04,$4C: A91E8D7DBEA9BA8D7EBE -> A9A
+08D8CBEA9B98D8DBE                       
+T1C,S04,$3F: A9858D7DBEA96B8D7EBE -> A9A
+08D8CBEA9B98D8DBE                       
+T1C,S04,$94: 1EBA -> A0B9               
+T19,S0B,$BC: 8D -> AD                   
+T00,S02 Writing built-in RWTS           
+T00,S00 Writing Standard Delivery       
+bootloader                              
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
