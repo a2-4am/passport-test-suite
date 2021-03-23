@@ -25,7 +25,7 @@ function striphibitstring(a)
   return b
 end
 
-mainmem = emu.item(manager:machine().devices[":ram"].items["0/m_pointer"])  -- always gets main memory
+mainmem = emu.item(manager.machine.devices[":ram"].items["0/m_pointer"])  -- always gets main memory
 function getscreenline(i)
   return striphibitstring(mainmem:read_block(textcalc(i), 40))
 end
@@ -58,7 +58,7 @@ function driver()
     if getscreen():match("rack disk") then
       fileindex = fileindex + 1
       if fileindex > #infiles then
-        manager:machine():exit()
+        manager.machine:exit()
         return
       end
       dsk, subcount = infiles[fileindex]:gsub(".woz$", ".dsk")
@@ -68,8 +68,8 @@ function driver()
       end
       print(infiles[fileindex])
       createblankdsk(dsk)
-      manager:machine().images["flop1"]:load(infiles[fileindex])
-      manager:machine().images["flop2"]:load(dsk)
+      manager.machine.images[":sl6:diskiing:0:525"]:load(infiles[fileindex])
+      manager.machine.images[":sl6:diskiing:1:525"]:load(dsk)
       emu.keypost("C")
       state = "waiting_for_process"
     end
@@ -84,6 +84,6 @@ function driver()
   end
 end
 
-manager:machine():video().frameskip = 10
-manager:machine():video().throttled = false
+;manager.machine.video.frameskip = 10
+;manager.machine.video.throttled = false
 emu.register_frame_done(driver)
