@@ -1,4 +1,4 @@
-Passport by 4am               2021-04-28
+Passport by 4am               2021-04-29
                                         
  ______________________________________ 
                                         
@@ -8,12 +8,12 @@ Reading from S6,D1
 T00,S00 Found DOS 3.3 bootloader        
 Using disk's own RWTS                   
 Writing to S6,D2                        
-T17,S07 Switching to built-in RWTS      
-T02,S02 Volume name is DISK VOLUME      
+T02,S02 Volume name is DISK VOLUME 254  
 T00,S06,$AE: CC -> DE                   
-zDatasoft protection check              
+T00,S0A Found Datasoft protection check 
 T00,S01,$48: 009B -> 769C               
 Crack complete. Press any key `         
+                                        
                                         
                                         
                                         
