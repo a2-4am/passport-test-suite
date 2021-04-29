@@ -1,0 +1,24 @@
+Passport by 4am               2021-04-29
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00 Found Electronic Arts bootloader    
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T1D,S09 Found anti-tamper check         
+T1D,S09,$B6: 52 -> 50                   
+T17,S01 Found anti-tamper check         
+T17,S01,$DC: 52 -> 50                   
+T06 Found EA protection track           
+T01,S06,$07: 01 -> 04                   
+T01,S0A,$5B: A7 -> 00                   
+T01,S0C,$CC: E1 -> E0                   
+T01,S07 Found anti-tamper check         
+T01,S07,$FE: D4 -> D5                   
+T01,S0F,$CC: E1 -> E0                   
+Crack complete. Press any key `         
+                                        
+                                        
