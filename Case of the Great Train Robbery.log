@@ -1,4 +1,4 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
@@ -10,7 +10,7 @@ Using built-in RWTS
 Writing to S6,D2                        
 T03 is unformatted                      
 T00,S07 Found a self-decrypting         
-protection check at $BB03.              
+protection check at $BB03               
 T00,S07,$03: 4E06BB716E0ABB40276E0F -> A
 9B548A91848A0044CA9B7                   
 Crack complete. Press any key `         

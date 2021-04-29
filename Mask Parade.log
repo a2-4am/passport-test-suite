@@ -1,10 +1,9 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
                                         
                                         
-T00,S05 Found $BB00 protection check    
 T00,S0A might be unreadable             
 Writing to S6,D2                        
 T02,S02 Volume name is DISK VOLUME 254  
@@ -18,7 +17,8 @@ T00,S02,$A3: FF -> AA
 T00,S02,$A8: FF -> EB                   
 T00,S04,$69: A9 -> 60                   
 T00,S04,$7D: A9 -> 60                   
-T00,S00,$4B: FEBB -> FD08               
+T00,S05,$25: BD8CC0 -> 6CFD08           
+T00,S05,$FE: 00 -> 20                   
 T00,S04,$29: AA -> 96                   
 T00,S04,$AA: 00 -> AA                   
 Crack complete. Press any key `         

@@ -1,4 +1,4 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
@@ -6,7 +6,7 @@ Passport by 4am               2020-07-20
                                         
 Reading from S6,D1                      
 T00,S00 Found DOS 3.3 bootloader        
-T00,S01 Found encrypted RWTS, key=$7E   
+T00,S00 Found encrypted RWTS, key=$7E   
 Using disk's own RWTS                   
 Writing to S6,D2                        
 T01,S02 Erasing serial number 000006    

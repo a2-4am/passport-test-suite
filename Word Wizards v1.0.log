@@ -1,0 +1,24 @@
+Passport by 4am               2021-04-28
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found DOS 3.3 bootloader        
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T1A,S0D,$9F: 8D -> 60                   
+T00,S0F Switching to built-in RWTS      
+T00,S03,$55: AA -> D5                   
+T00,S03,$5F: D5 -> AA                   
+T00,S06,$7A: AA -> D5                   
+T00,S06,$7F: D5 -> AA                   
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        

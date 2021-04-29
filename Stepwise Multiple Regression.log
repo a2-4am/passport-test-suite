@@ -1,4 +1,4 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
@@ -11,10 +11,10 @@ Using disk's own RWTS
 Writing to S6,D2                        
 T00,S02,$80: A546 -> A900               
 T00,S02,$EE: A546 -> A900               
+T00,S08 RWTS requires a non-standard    
+disk volume number                      
+T00,S08,$18: B148 -> A900               
 Crack complete. Press any key `         
-                                        
-                                        
-                                        
                                         
                                         
                                         

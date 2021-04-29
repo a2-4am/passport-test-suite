@@ -1,0 +1,24 @@
+Passport by 4am               2021-04-28
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found ProDOS bootloader         
+T00,S0B Volume name is MC               
+Using built-in RWTS                     
+Writing to S6,D2                        
+T20,S09,$F1: 38 -> 18                   
+T20,S08,$57: 38 -> 18                   
+T20,S08,$5E: 38 -> 18                   
+T05,S05,$C8: 9A -> DE                   
+T05,S08,$C4: 9A -> DE                   
+T01,S0E,$09: 38 -> 18                   
+T01,S0E,$6F: 38 -> 18                   
+T01,S0E,$76: 38 -> 18                   
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        

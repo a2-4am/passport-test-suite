@@ -1,4 +1,4 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
@@ -15,7 +15,7 @@ T00,S02,$52: 4CB1BEEAEA -> A9D520B8B8
 T00,S02,$5F: BB -> B8                   
 T00,S02 RWTS requires extra nibbles and 
 timing bits after the data prologue by  
-jumping to $BECA.                       
+jumping to $BECA                        
 T00,S02,$F4: 4CCABEEABD8CC010FB49ADD0DD 
 -> A056BD8CC010FBC9ADD0E7A900           
 T00,S03,$91: B6 -> DE                   

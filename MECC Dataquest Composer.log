@@ -1,0 +1,24 @@
+Passport by 4am               2021-04-28
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+T16,S03,$6C: D0 -> 24                   
+T0E,S08,$56: 0A1869 -> A90024           
+T07,S0B,$08: AA -> D5                   
+T07,S0B,$12: D5 -> AA                   
+T07,S0B,$1D: AD -> 96                   
+T07,S0B,$99: 96 -> AA                   
+T07,S0B,$A3: AA -> AD                   
+T07,S0C,$82: 96 -> AA                   
+T07,S0C,$87: AA -> AD                   
+T00,S0F Switching to built-in RWTS      
+T00,S0B,$08: AA -> D5                   
+T00,S0B,$12: D5 -> AA                   
+T00,S0B,$1D: AD -> 96                   
+T00,S0B,$99: 96 -> AA                   
+T00,S0B,$A3: AA -> AD                   
+T00,S0C,$82: 96 -> AA                   
+T00,S0C,$87: AA -> AD                   
+Crack complete. Press any key `         

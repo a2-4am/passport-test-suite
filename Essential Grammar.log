@@ -1,4 +1,4 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
@@ -11,11 +11,11 @@ Using built-in RWTS
 T22 is unformatted                      
 Writing to S6,D2                        
 T12,S0B BASIC program POKEs protection  
-check into memory and CALLs it.         
+check into memory and CALLs it          
 T12,S0B,$36: 333201300331393103313238023
 131023936 -> 343401300231300332333403313
 639023339                               
-Crack complete. Press any key           
+Crack complete. Press any key `         
                                         
                                         
                                         

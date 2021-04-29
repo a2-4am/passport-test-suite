@@ -1,4 +1,4 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
@@ -11,9 +11,9 @@ Using built-in RWTS
 T22 Found Davidson & Associates disk    
 T22,S00 is unreadable (ignoring)        
 Writing to S6,D2                        
+T1E,S05 Found bad block protection check
 T1E,S05,$28: 80 -> CC                   
 Crack complete. Press any key `         
-                                        
                                         
                                         
                                         

@@ -1,4 +1,4 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
@@ -10,7 +10,7 @@ Using disk's own RWTS
 Writing to S6,D2                        
 T02,S02 Volume name is C1983 DSR C#254  
 T00,S05 Found a self-decrypting         
-protection check at $BB03.              
+protection check at $BB03               
 T00,S05,$03: 4E06BB716E0ABB4027 -> A9B54
 8A918484C93B7                           
 Crack complete. Press any key `         

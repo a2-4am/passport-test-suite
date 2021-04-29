@@ -1,4 +1,4 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
@@ -12,7 +12,7 @@ T14,S0E Found PDI protection check
 T14,S0E,$10: E393 -> 998E               
 T12,S0E Found PDI protection check      
 T12,S0E,$10: E393 -> 998E               
-T0C,S09 Switching to built-in RWTS      
+T0D,S0C Switching to built-in RWTS      
 T0C,S08 Found PDI protection check      
 T0C,S08,$10: E393 -> 998E               
 T03 Found nibble count protection track 

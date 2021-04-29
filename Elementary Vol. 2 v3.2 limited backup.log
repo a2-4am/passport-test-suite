@@ -1,4 +1,4 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
@@ -9,7 +9,7 @@ T00,S00 Found DOS 3.3 bootloader
 Using disk's own RWTS                   
 Writing to S6,D2                        
 T01,S00 Original disk destroys itself   
-after a limited number of boots.        
+after a limited number of boots         
 T01,S00,$00: ADF303 -> 4C031B           
 T00,S0F Switching to built-in RWTS      
 T00,S03,$55: AA -> D5                   

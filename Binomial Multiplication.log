@@ -1,4 +1,4 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
@@ -10,11 +10,11 @@ Using disk's own RWTS
 Writing to S6,D2                        
 T02,S02 Volume name is DISK VOLUME 254  
 T02,S03 Disk calls a protection check   
-at $B400 before initializing DOS.       
+at $B400 before initializing DOS        
 T02,S03,$00: A000B9 -> 4C849D           
+T00,S03 RWTS accepts any value for the  
+second address epilogue nibble          
 Crack complete. Press any key `         
-                                        
-                                        
                                         
                                         
                                         

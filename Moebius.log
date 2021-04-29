@@ -1,10 +1,10 @@
-Passport by 4am               2020-07-20
+Passport by 4am               2021-04-28
                                         
  ______________________________________ 
                                         
                                         
                                         
-T00,S01 Found encrypted RWTS, key=$23   
+T00,S00 Found encrypted RWTS, key=$23   
 Using disk's own RWTS                   
 Writing to S6,D2                        
 T0C,S07 Found AA nibble count           

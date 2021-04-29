@@ -1,0 +1,24 @@
+Passport by 4am               2021-04-28
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found ProDOS bootloader         
+T00,S0B Volume name is CLUE             
+Using built-in RWTS                     
+T22,S03 Found FBFF protection check     
+T22,S03,$5D: FB -> A2                   
+T22,S09 Disk requires volume number 001 
+T22,S09,$B7: 01 -> 00                   
+Writing to S6,D2                        
+T21,S07,$C8: AA -> DE                   
+T21,S08 RWTS accepts $D4 or $D5 for the 
+first address prologue nibble           
+T17,S03 Found FBFF protection check     
+T17,S03,$0D: BD89C0A956 -> A9FF189040   
+T01,S0B Found FBFF protection check     
+T01,S0B,$06: BD89C0A956 -> A9FF189040   
+Crack complete. Press any key `         
+                                        
