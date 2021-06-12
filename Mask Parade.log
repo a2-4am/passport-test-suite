@@ -1,9 +1,10 @@
-Passport by 4am               2021-04-28
+Passport by 4am               2021-06-07
                                         
  ______________________________________ 
                                         
                                         
                                         
+T00,S05 Found Lock-It-Up protection     
 T00,S0A might be unreadable             
 Writing to S6,D2                        
 T02,S02 Volume name is DISK VOLUME 254  
@@ -20,5 +21,4 @@ T00,S04,$7D: A9 -> 60
 T00,S05,$25: BD8CC0 -> 6CFD08           
 T00,S05,$FE: 00 -> 20                   
 T00,S04,$29: AA -> 96                   
-T00,S04,$AA: 00 -> AA                   
 Crack complete. Press any key `         

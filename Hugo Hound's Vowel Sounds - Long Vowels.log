@@ -1,0 +1,24 @@
+Passport by 4am               2021-06-07
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found ProDOS bootloader         
+T00,S0B Volume name is BOOT             
+Using built-in RWTS                     
+Writing to S6,D2                        
+T08,S05 Found bad block protection check
+T08,S05,$B4: A9 -> 4C                   
+T08,S05,$B6: 8D -> 61                   
+T00,S0C is unreadable (ignoring)        
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        

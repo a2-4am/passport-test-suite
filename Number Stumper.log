@@ -1,0 +1,24 @@
+Passport by 4am               2021-06-07
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found 5-5-5 spiral bootloader   
+T00,S07,$EE: 3604A20A20150420 -> 3304B00
+BE641EA4C                               
+Writing to S6,D2                        
+T06,S0D,$35: FF -> DE                   
+T06,S0D,$3F: FF -> AA                   
+T06,S0D,$91: FF -> DE                   
+T06,S0D,$9B: FF -> AA                   
+T06,S08,$25: E1 -> 00                   
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        

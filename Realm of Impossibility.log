@@ -1,4 +1,4 @@
-Passport by 4am               2021-04-29
+Passport by 4am               2021-06-07
                                         
  ______________________________________ 
                                         
@@ -10,7 +10,7 @@ Using disk's own RWTS
 Writing to S6,D2                        
 T0F,S04 Found anti-tamper check         
 T0F,S04,$FE: A0 -> A1                   
-T06 Found EA protection track           
+T06 Found extra wide protection track   
 T01,S06,$07: 01 -> 04                   
 T01,S0A,$5B: A7 -> 00                   
 T01,S0C,$CC: E1 -> E0                   

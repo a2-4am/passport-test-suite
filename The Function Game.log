@@ -1,4 +1,4 @@
-Passport by 4am               2021-04-28
+Passport by 4am               2021-06-07
                                         
  ______________________________________ 
                                         
@@ -8,10 +8,10 @@ Reading from S6,D1
 T00,S00 Found DOS 3.3 bootloader        
 Using disk's own RWTS                   
 Writing to S6,D2                        
-T00,S04,$AA: 23 -> AA                   
 T00,S06 RWTS changes based on track     
 T00,S06,$F2: 20 -> 2C                   
 Crack complete. Press any key `         
+                                        
                                         
                                         
                                         

@@ -1,4 +1,4 @@
-Passport by 4am               2021-04-29
+Passport by 4am               2021-06-07
                                         
  ______________________________________ 
                                         
@@ -13,7 +13,7 @@ T0A,S02 Found anti-tamper check
 T0A,S02,$BB: 7C -> 00                   
 T0A,S05 Found anti-tamper check         
 T0A,S05,$EC: 4D -> 00                   
-T06 Found EA protection track           
+T06 Found extra wide protection track   
 T02,S03,$47: BB -> AA                   
 T02,S03,$51: CF -> AD                   
 T01,S0A,$5B: A7 -> 00                   
