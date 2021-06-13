@@ -1,4 +1,4 @@
-Passport by 4am               2021-06-11
+Passport by 4am               2021-06-12
                                         
  ______________________________________ 
    ___________________________________  
@@ -9,7 +9,7 @@ Switching to verify-only mode
 T00,S00 Found 13-sector format          
 Using built-in RWTS                     
                                         
-T22,S0C Fatal read error                
+T22,S0B Fatal read error                
                                         
 Press any key `                         
                                         
