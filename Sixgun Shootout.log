@@ -1,4 +1,4 @@
-Passport by 4am               2021-06-12
+Passport by 4am               2021-06-14
                                         
  ______________________________________ 
                                         
@@ -6,7 +6,7 @@ Passport by 4am               2021-06-12
                                         
 Reading from S6,D1                      
 T00,S00 Found DOS 3.2 bootloader        
-T00,S00 Found RDOS 13-sector bootloader 
+T00,SA3 Found RDOS 13-sector bootloader 
 Using disk's own RWTS                   
 T22 Found nibble count protection track 
 Writing to S6,D2                        

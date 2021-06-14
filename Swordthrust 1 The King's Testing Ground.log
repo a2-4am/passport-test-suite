@@ -1,4 +1,4 @@
-Passport by 4am               2021-06-12
+Passport by 4am               2021-06-14
                                         
  ______________________________________ 
                                         
@@ -9,10 +9,10 @@ T00,S00 Found DOS 3.3 bootloader
 Using disk's own RWTS                   
 Writing to S6,D2                        
 T02,S02 Volume name is DISK VOLUME      
-T00,S03,$91: F5 -> DE                   
 T00,S01 RWTS changes based on track     
 T00,S01,$81: 8D -> 2C                   
 T00,S01,$84: 8D -> 2C                   
+T00,S03,$91: F5 -> DE                   
 Crack complete. Press any key `         
                                         
                                         

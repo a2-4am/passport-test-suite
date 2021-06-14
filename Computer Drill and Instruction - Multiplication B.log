@@ -1,4 +1,4 @@
-Passport by 4am               2021-06-12
+Passport by 4am               2021-06-14
                                         
  ______________________________________ 
                                         
@@ -14,11 +14,11 @@ T00,S02 Writing built-in RWTS
 T00,S01,$38: 20 -> 2C                   
 T00,S00 Writing Standard Delivery       
 bootloader                              
+T00,S03 RWTS accepts $D4 or $D5 for the 
+first address prologue nibble           
+T00,S03 RWTS accepts any value for the  
+first address epilogue nibble           
 Crack complete. Press any key `         
-                                        
-                                        
-                                        
-                                        
                                         
                                         
                                         

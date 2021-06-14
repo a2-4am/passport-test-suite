@@ -1,4 +1,4 @@
-Passport by 4am               2021-06-12
+Passport by 4am               2021-06-14
                                         
  ______________________________________ 
                                         
@@ -8,17 +8,17 @@ Reading from S6,D1
 T00,S00 Found DOS 3.2 bootloader        
 Using disk's own RWTS                   
 Writing to S6,D2                        
-T1F,S00 Found Sierra protection check   
+T1F,S0C Found Sierra protection check   
 T1F,S0C,$D2: 5A -> 55                   
 T1E,S02,$76: F3 -> FC                   
 T01 Found nibble count protection track 
 T00,S02 Writing built-in RWTS           
 T00,S00 Writing Standard Delivery       
 bootloader                              
+T00,S03 RWTS accepts $D4 or $D5 for the 
+first address prologue nibble           
+T00,S03 RWTS accepts any value for the  
+first address epilogue nibble           
 Crack complete. Press any key `         
-                                        
-                                        
-                                        
-                                        
                                         
                                         
