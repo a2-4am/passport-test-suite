@@ -5,7 +5,7 @@ Passport by 4am               2021-06-14
                                         
                                         
 Reading from S6,D1                      
-T00,SF8 Found 5-5-5 spiral bootloader   
+T00,S00 Found 5-5-5 spiral bootloader   
 T00,S08,$C0: 3602A20A20150220 -> 3302B00
 BE641EA4C                               
 Writing to S6,D2                        

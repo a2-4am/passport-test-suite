@@ -15,10 +15,10 @@ T01 Found nibble count protection track
 T00,S02 Writing built-in RWTS           
 T00,S00 Writing Standard Delivery       
 bootloader                              
-T00,S03 RWTS accepts $D4 or $D5 for the 
-first address prologue nibble           
-T00,S03 RWTS accepts any value for the  
-first address epilogue nibble           
-Crack complete. Press any key `         
+Crack complete. Press any key           
+                                        
+                                        
+                                        
+                                        
                                         
                                         

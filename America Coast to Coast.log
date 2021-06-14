@@ -9,8 +9,8 @@ T00,S00 Found Pronto-DOS bootloader
 Using disk's own RWTS                   
 Writing to S6,D2                        
 T02,S00 Volume name is PRONTO-DOS V254  
-T02,SB4 Disk calls a protection check   
-at $1200 before initializing DOS        
+T02,S00 Disk calls a protection check   
+at $B412 before initializing DOS        
 T02,S00,$F6: 12B4 -> 849D               
 T00,S03 RWTS accepts any value for the  
 second address epilogue nibble          
