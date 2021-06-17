@@ -8,17 +8,17 @@ Reading from S6,D1
 T00,S00 Found DOS 3.3 bootloader        
 Using disk's own RWTS                   
 Writing to S6,D2                        
-T0D is unformatted                      
+T0D Found $F7F6EFEEAB protection track  
+Restarting scan                         
+T0C,S0E,$1E: A2 -> 18                   
+T00,S08 RWTS requires a non-standard    
+disk volume number                      
+T00,S08,$12: B148 -> A900               
+Crack complete. Press any key `         
                                         
-The disk was copied successfully, but   
-Passport did not apply any patches.     
                                         
-Possible reasons:                       
-- The source disk is not copy protected.
-- The target disk works without patches.
-- The disk uses an unknown protection,  
-  and Passport can not help any further.
                                         
-Press any key `                         
+                                        
+                                        
                                         
                                         
