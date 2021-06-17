@@ -1,20 +1,20 @@
-Passport by 4am               2021-06-14
+Passport by 4am               2021-06-17
                                         
  ______________________________________ 
                                         
                                         
                                         
 Reading from S6,D1                      
-T00,S00 Found DOS 3.3 bootloader        
-Using disk's own RWTS                   
+T00,S00 Found 5-5-5 spiral bootloader   
+T00,S07,$19: 7D04A20A205C0420 -> 7A04B00
+BE641EA4C                               
 Writing to S6,D2                        
-T0D Found $F7F6EFEEAB protection track  
-Restarting scan                         
-T0C,S0E,$1E: A2 -> 18                   
-T00,S08 RWTS requires a non-standard    
-disk volume number                      
-T00,S08,$12: B148 -> A900               
 Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
                                         
                                         
                                         

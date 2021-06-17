@@ -1,4 +1,4 @@
-Passport by 4am               2021-06-14
+Passport by 4am               2021-06-17
                                         
  ______________________________________ 
                                         
@@ -12,8 +12,8 @@ Writing to S6,D2
 T11,S0E,$3D: 38 -> 18                   
 T11,S0E,$A3: 38 -> 18                   
 T11,S0E,$AA: 38 -> 18                   
-T04,S09,$C8: 9A -> DE                   
 T04,S0C,$C4: 9A -> DE                   
+T04,S09,$C8: 9A -> DE                   
 Crack complete. Press any key `         
                                         
                                         

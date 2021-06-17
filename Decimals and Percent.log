@@ -1,20 +1,20 @@
-Passport by 4am               2021-06-07
+Passport by 4am               2021-06-17
                                         
  ______________________________________ 
                                         
                                         
                                         
 Reading from S6,D1                      
-T00,S00 Found 5-5-5 spiral bootloader   
-T00,S07,$19: 8004A20A205F0420 -> 7D04B00
-BE641EA4C                               
+T00,S00 Found DOS 3.3 bootloader        
+Using disk's own RWTS                   
+T00,S00 Found SVE protection check      
 Writing to S6,D2                        
-T05,S0D,$35: FF -> DE                   
-T05,S0D,$3F: FF -> AA                   
-T05,S0D,$91: FF -> DE                   
-T05,S0D,$9B: FF -> AA                   
-T05,S08,$25: E1 -> 00                   
+T02,S02 Volume name is DISK VOLUME 254  
+T00,S08,$5A: 4C71A9 -> 48A001           
+T00,S06,$55: E4 -> 64                   
 Crack complete. Press any key `         
+                                        
+                                        
                                         
                                         
                                         
