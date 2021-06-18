@@ -1,17 +1,17 @@
-Passport by 4am               2021-06-17
+Passport by 4am               2021-06-18
                                         
  ______________________________________ 
-                                        
+   ___________________________________  
                                         
                                         
 Reading from S6,D1                      
 Switching to verify-only mode           
 T00,S00 Found 13-sector format          
 Using built-in RWTS                     
-Verification complete. The disk is good.
+                                        
+T22,S0C Fatal read error                
                                         
 Press any key `                         
-                                        
                                         
                                         
                                         
