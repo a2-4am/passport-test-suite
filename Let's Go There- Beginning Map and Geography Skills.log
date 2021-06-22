@@ -1,4 +1,4 @@
-Passport by 4am               2021-06-18
+Passport by 4am               2021-06-21
                                         
  ______________________________________ 
                                         
@@ -11,7 +11,7 @@ Writing to S6,D2
 T02,S02 Volume name is DISK VOLUME      
 T00,S03 RWTS accepts $D5 + timing bits  
 as the entire address prologue          
-T00,S03,$58: EABD -> F006               
+T00,S03,$5B: C0 -> BF                   
 Crack complete. Press any key `         
                                         
                                         

@@ -1,4 +1,4 @@
-Passport by 4am               2021-06-18
+Passport by 4am               2021-06-21
                                         
  ______________________________________ 
                                         
@@ -10,8 +10,8 @@ Using disk's own RWTS
 Writing to S6,D2                        
 T03 Found $F7F6EFEEAB protection track  
 Restarting scan                         
-T07,S0E,$20: 4C1608 -> EAA927           
 T07,S0E,$76: 232A -> A9A1               
+T07,S0E,$20: 4C1608 -> EAA927           
 T02,S02 Volume name is DISK VOLUME 254  
 Crack complete. Press any key `         
                                         
