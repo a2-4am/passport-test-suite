@@ -1,22 +1,22 @@
-Passport by 4am               2021-06-21
+Passport by 4am               2021-07-03
                                         
  ______________________________________ 
                                         
                                         
                                         
 Reading from S6,D1                      
-T00,S00 Found Diversi-DOS bootloader    
+T00,S00 Found DOS 3.3 bootloader        
 Using disk's own RWTS                   
+T00,S04 Found Sunburst disk             
+T11,S0F might be unreadable             
 Writing to S6,D2                        
-T14,S0E Found PDI protection check      
-T14,S0E,$10: E393 -> 998E               
-T12,S0E Found PDI protection check      
-T12,S0E,$10: E393 -> 998E               
-T0C,S08 Found PDI protection check      
-T0C,S08,$10: E393 -> 998E               
-T03 Found nibble count protection track 
-T02,S02 Volume name is C 1982 PDI  254  
-Crack complete. Press any key `         
+Switching to verify-only mode           
+T11,S04 Found RW18-sector format        
+T02,S02 Volume name is DISK VOLUME 254  
+Verification complete. The disk is good.
+                                        
+Press any key `                         
+                                        
                                         
                                         
                                         
