@@ -1,23 +1,23 @@
-Passport by 4am               2021-07-03
+Passport by 4am               2021-07-08
                                         
  ______________________________________ 
-                        ______________  
+                                        
                                         
                                         
 Reading from S6,D1                      
 T00,S00 Found Diversi-DOS bootloader    
 Using disk's own RWTS                   
 Writing to S6,D2                        
-T21,S07 Switching to built-in RWTS      
 T14,S0E Found PDI protection check      
 T14,S0E,$10: E393 -> 998E               
 T12,S0E Found PDI protection check      
 T12,S0E,$10: E393 -> 998E               
-                                        
-T0D,S08 Fatal read error                
-                                        
-Press any key `                         
-                                        
+T0D,S0C Switching to built-in RWTS      
+T0C,S08 Found PDI protection check      
+T0C,S08,$10: E393 -> 998E               
+T03 Found nibble count protection track 
+T02,S02 Volume name is C 1982 PDI  254  
+Crack complete. Press any key `         
                                         
                                         
                                         
