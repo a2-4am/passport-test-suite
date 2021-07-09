@@ -1,24 +1,24 @@
 Passport by 4am               2021-07-08
                                         
  ______________________________________ 
+                                    __  
                                         
                                         
+T0F is unformatted                      
+T0E is unformatted                      
+T0D is unformatted                      
+T0C is unformatted                      
+T0B is unformatted                      
+T0A is unformatted                      
+T09 is unformatted                      
+T08 is unformatted                      
+T07 is unformatted                      
+T06 is unformatted                      
+T05 is unformatted                      
+T04 is unformatted                      
+T03 is unformatted                      
+T02 is unformatted                      
                                         
-Reading from S6,D1                      
-T00,S00 Found 5-5-5 spiral bootloader   
-T00,S07,$B4: 2D04A20A200C0420 -> 2A04B00
-BE641EA4C                               
-Writing to S6,D2                        
-T01,S0A,$20: A900 -> D073               
-T01,S0A,$43: 0C -> 08                   
-T01,S0A,$8D: 1C1C1C1C -> 702C2622       
-T01,S0A,$91: 702C26221F1E1D1C1C1C1C -> 1
-F1E1D1C4A8541A900F086                   
-Crack complete. Press any key `         
+T01,S0F Fatal read error                
                                         
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
+Press any key `                         
