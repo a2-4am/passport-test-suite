@@ -1,4 +1,4 @@
-Passport by 4am               2021-07-12
+Passport by 4am               2021-09-04
                                         
  ______________________________________ 
                                         
@@ -8,8 +8,8 @@ Reading from S6,D1
 Using built-in RWTS                     
 Writing to S6,D2                        
 T11,S00 Found E7 bitstream              
-T11,S00,$A3: 00AC00AC00AC00AC00AC00AC ->
- 64B444802CDC18B4448044B4               
+T11,S00,$A4: AC00AC00AC00AC00AC00AC00 ->
+ 78A8589C30C004A8589C58A8               
 T11,S04,$50: FF -> DE                   
 T11,S04,$5A: FF -> AA                   
 Crack complete. Press any key `         

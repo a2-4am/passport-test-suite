@@ -1,4 +1,4 @@
-Passport by 4am               2021-07-12
+Passport by 4am               2021-09-04
                                         
  ______________________________________ 
                                         
@@ -7,8 +7,8 @@ Passport by 4am               2021-07-12
 Reading from S6,D1                      
 Using built-in RWTS                     
 T22,S0F Found E7 bitstream              
-T22,S0F,$A3: 00AC00AC00AC00AC00AC00AC ->
- 64B444802CDC18B4448044B4               
+T22,S0F,$A4: AC00AC00AC00AC00AC00AC00 ->
+ 78A8589C30C004A8589C58A8               
 Writing to S6,D2                        
 Crack complete. Press any key `         
                                         
