@@ -1,20 +1,13 @@
-Passport by 4am               2021-09-04
+Passport by 4am               2022-02-03
                                         
  ______________________________________ 
                                         
                                         
                                         
-T22,S0A is unreadable (ignoring)        
-T22,S09 is unreadable (ignoring)        
-T22,S08 is unreadable (ignoring)        
-T22,S07 is unreadable (ignoring)        
-T22,S06 is unreadable (ignoring)        
-T22,S05 is unreadable (ignoring)        
-T22,S04 is unreadable (ignoring)        
-T22,S03 is unreadable (ignoring)        
-T22,S02 is unreadable (ignoring)        
-T22,S01 is unreadable (ignoring)        
-T22,S00 is unreadable (ignoring)        
+Reading from S6,D1                      
+T00 Found Electronic Arts bootloader    
+Using disk's own RWTS                   
+T22 Found extra wide protection track   
 Writing to S6,D2                        
 T02,S03,$47: BB -> AA                   
 T02,S03,$51: CF -> AD                   
@@ -22,3 +15,10 @@ T01,S0F,$B6: E1 -> D1
 T01,S07 Found anti-tamper check         
 T01,S07,$FE: AB -> BB                   
 Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
