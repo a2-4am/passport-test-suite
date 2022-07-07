@@ -1,0 +1,24 @@
+Passport by 4am               2022-07-05
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found Diversi-DOS bootloader    
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T21,S03 Switching to built-in RWTS      
+T02,S02 Volume name is C1983 DSR C#     
+T02,S02 Disk calls a protection check   
+at $B3BB before initializing DOS        
+T02,S02,$BB: 2058FC -> 4C849D           
+T00,S03,$91: DA -> DE                   
+T00,S03,$35: DA -> DE                   
+T00,S06,$AE: DA -> DE                   
+T00,S02,$9E: DA -> DE                   
+T00,S08 RWTS requires a non-standard    
+disk volume number                      
+T00,S08,$12: B148 -> A900               
+Crack complete. Press any key `         
+                                        

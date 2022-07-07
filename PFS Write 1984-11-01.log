@@ -1,0 +1,24 @@
+Passport by 4am               2022-07-05
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found Pascal bootloader         
+T00,S0B Volume name is PFSWORD          
+Using built-in RWTS                     
+Writing to S6,D2                        
+T1A,S02 Found PFS protection check      
+T1A,S02,$AD: 27 -> 25                   
+T1A,S0F Found PFS protection check      
+T1A,S0F,$1F: 31 -> 2F                   
+T1A,S06 Protection check intentionally  
+destroys unauthorized copies            
+T1A,S06,$C8: 06 -> 05                   
+T1A,S06,$CC: C3 -> CB                   
+T09,S03 Found PFS protection check      
+T09,S03,$0B: 31 -> 2F                   
+Crack complete. Press any key `         
+                                        
+                                        

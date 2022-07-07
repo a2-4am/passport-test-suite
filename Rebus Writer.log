@@ -1,0 +1,24 @@
+Passport by 4am               2022-07-05
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found Diversi-DOS bootloader    
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T02,S02 Volume name is C1983 DSR C#254  
+T02,S03 Disk calls a protection check   
+at $B400 before initializing DOS        
+T02,S03,$00: A000B9 -> 4C009B           
+T00,S03 RWTS accepts any value for the  
+second address epilogue nibble          
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        

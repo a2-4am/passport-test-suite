@@ -1,0 +1,24 @@
+Passport by 4am               2022-07-05
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found Pascal bootloader         
+T00,S0B Volume name is GRAFA00          
+Using built-in RWTS                     
+Writing to S6,D2                        
+T20,S08 Found PFS protection check      
+T20,S08,$63: 27 -> 25                   
+T1A,S04 Found PFS protection check      
+T1A,S04,$63: 27 -> 25                   
+T05,S01 Protection check intentionally  
+destroys unauthorized copies            
+T05,S01,$3F: 06 -> 05                   
+T05,S01,$43: C3 -> CB                   
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        

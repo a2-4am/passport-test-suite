@@ -1,0 +1,24 @@
+Passport by 4am               2022-07-05
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found Pronto-DOS bootloader     
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T02,S00 Volume name is PRONTO-DOS V254  
+T00,S05 Found a self-decrypting         
+protection check at $BB03               
+T00,S05,$66: BCBD30 -> B9F085           
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
