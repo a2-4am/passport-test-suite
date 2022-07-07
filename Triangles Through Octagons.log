@@ -1,4 +1,4 @@
-Passport by 4am               2022-02-03
+Passport by 4am               2022-07-05
                                         
  ______________________________________ 
                                         
@@ -9,16 +9,16 @@ T00,S00 Found Pascal bootloader
 T00,S0B Volume name is SYSMAS           
 Using built-in RWTS                     
 Writing to S6,D2                        
+T01,S05 Protection check intentionally  
+destroys unauthorized copies            
+T01,S05,$A5: 06 -> 05                   
+T01,S05,$A9: C3 -> CB                   
+Crack complete. Press any key `         
                                         
-The disk was copied successfully, but   
-Passport did not apply any patches.     
                                         
-Possible reasons:                       
-- The source disk is not copy protected.
-- The target disk works without patches.
-- The disk uses an unknown protection,  
-  and Passport can not help any further.
                                         
-Press any key `                         
+                                        
+                                        
+                                        
                                         
                                         

@@ -1,4 +1,4 @@
-Passport by 4am               2022-02-03
+Passport by 4am               2022-07-05
                                         
  ______________________________________ 
                                         
@@ -13,11 +13,11 @@ T1E,S0D Found A6BC95 protection check
 T1E,S0D,$0E: AE -> 60                   
 T11,S07 Found A6BC95 protection check   
 T11,S07,$0E: AE -> 60                   
+T02,S0B Protection check intentionally  
+destroys unauthorized copies            
+T02,S0B,$3F: 06 -> 05                   
+T02,S0B,$43: C3 -> CB                   
 Crack complete. Press any key `         
-                                        
-                                        
-                                        
-                                        
                                         
                                         
                                         

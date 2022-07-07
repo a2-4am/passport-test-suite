@@ -1,4 +1,4 @@
-Passport by 4am               2022-02-03
+Passport by 4am               2022-07-05
                                         
  ______________________________________ 
                                         
@@ -14,9 +14,9 @@ T02,S02 Volume name is DISK VOLUME 254
 T02,S03 Disk calls a protection check   
 at $B4BB before initializing DOS        
 T02,S03,$DE: ADFFCF -> 4C849D           
+T02,S03,$1C: 8E -> 2C                   
 T00,S03,$91: ED -> DE                   
 Crack complete. Press any key `         
-                                        
                                         
                                         
                                         
