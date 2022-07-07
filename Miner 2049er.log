@@ -1,4 +1,4 @@
-Passport by 4am               2022-02-03
+Passport by 4am               2022-07-05
                                         
  ______________________________________ 
                                         
@@ -7,8 +7,8 @@ Passport by 4am               2022-02-03
 Reading from S6,D1                      
 T00,S00 Found DOS 3.3 bootloader        
 Using disk's own RWTS                   
-T22,S09 Switching to built-in RWTS      
 Writing to S6,D2                        
+T00,S0F Switching to built-in RWTS      
 T00,S08 Found Micro Fun protection check
 T00,S08,$AF: A000 -> 1860               
 T00,S03,$91: 9E -> DE                   
