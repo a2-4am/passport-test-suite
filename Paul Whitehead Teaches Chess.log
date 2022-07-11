@@ -5,20 +5,20 @@ Passport by 4am               2022-07-12
                                         
                                         
 Reading from S6,D1                      
-T00,S00 Found Pascal bootloader         
-T00,S0B Volume name is WIZPLS           
+T00,S08 Found Enlightenment bootloader  
 Using built-in RWTS                     
 Writing to S6,D2                        
+T02,S01 Found anti-tamper check         
+T02,S01,$AE: 48 -> EA                   
+T02,S01,$D5: 48 -> EA                   
+T02,S09 Found anti-tamper check         
+T02,S09,$8B: 00 -> 52                   
+T00,S0A Found flux timing protection    
+T00,S0A,$26: 853D -> 1860               
+T00,S0C RWTS changes based on track     
+T00,S0C,$94: BD00BF -> EAA9AD           
+Crack complete. Press any key `         
                                         
-The disk was copied successfully, but   
-Passport did not apply any patches.     
                                         
-Possible reasons:                       
-- The source disk is not copy protected.
-- The target disk works without patches.
-- The disk uses an unknown protection,  
-  and Passport can not help any further.
-                                        
-Press any key `                         
                                         
                                         
