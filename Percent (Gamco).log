@@ -1,21 +1,21 @@
-Passport by 4am               2022-07-12
+Passport by 4am               2023-07-27
                                         
  ______________________________________ 
                                         
                                         
                                         
 Reading from S6,D1                      
-T00,S00 Found DOS 3.3 bootloader        
-Using disk's own RWTS                   
+T00,S00 Found ProDOS bootloader         
+T00,S0B Volume name is G                
+Using built-in RWTS                     
+T22 Found nibble count protection track 
 Writing to S6,D2                        
-T02,S02 Volume name is DISK VOLUME 254  
-T00,S08 RWTS changes based on track     
-T00,S08,$B8: 03 -> 23                   
+T09,S0D BASIC program POKEs protection  
+check into memory and CALLs it          
+T09,S0D,$C0: 320130033139310331323803323
+530023331 -> 360130033136390331323803313
+639023339                               
 Crack complete. Press any key `         
-                                        
-                                        
-                                        
-                                        
                                         
                                         
                                         

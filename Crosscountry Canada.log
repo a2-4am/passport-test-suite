@@ -1,0 +1,24 @@
+Passport by 4am               2023-07-27
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found Pronto-DOS bootloader     
+T00,S07 Found Didatech disk             
+T02,S07 might be unreadable             
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T13,S0B,$1C: 5E -> 7C                   
+T02,S07 is unreadable (ignoring)        
+T02,S00 Volume name is PRONTO-DOS V254  
+Crack complete. Press any key `         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        

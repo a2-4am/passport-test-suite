@@ -1,0 +1,24 @@
+Passport by 4am               2023-07-27
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found DOS 3.3 bootloader        
+Using built-in RWTS                     
+Writing to S6,D2                        
+T01 Found 5-and-3 protection track      
+                                        
+The disk was copied successfully, but   
+Passport did not apply any patches.     
+                                        
+Possible reasons:                       
+- The source disk is not copy protected.
+- The target disk works without patches.
+- The disk uses an unknown protection,  
+  and Passport can not help any further.
+                                        
+Press any key `                         
+                                        
+                                        
