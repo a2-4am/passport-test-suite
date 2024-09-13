@@ -1,0 +1,24 @@
+Passport by 4am               2024-09-13
+                                        
+ ______________________________________ 
+                                        
+                                        
+                                        
+Reading from S6,D1                      
+T00,S00 Found JMP $0600 bootloader      
+Using disk's own RWTS                   
+Writing to S6,D2                        
+T00,S00 Switching to built-in RWTS      
+T00,S00,$4A: AA -> D5                   
+T00,S00,$53: D5 -> AA                   
+T00,S00,$5D: AB -> 96                   
+T00,S00,$88: AA -> D5                   
+T00,S00,$91: D5 -> AA                   
+T00,S00,$9B: EB -> AD                   
+T00,S03,$1A: AA -> D5                   
+T00,S03,$23: D5 -> AA                   
+T00,S03,$2D: AB -> 96                   
+T00,S03,$57: AA -> D5                   
+T00,S03,$60: D5 -> AA                   
+T00,S03,$6A: EB -> AD                   
+Crack complete. Press any key `         

@@ -1,4 +1,4 @@
-Passport by 4am               2023-07-27
+Passport by 4am               2024-09-13
                                         
  ______________________________________ 
                                         
@@ -6,8 +6,8 @@ Passport by 4am               2023-07-27
                                         
 T00,S00 Found DOS 3.3 bootloader        
 Using disk's own RWTS                   
+T22,S04 Switching to built-in RWTS      
 Writing to S6,D2                        
-T1E,S0E Switching to built-in RWTS      
 T02,S02 Volume name is DISK VOLUME      
 T00,S03 RWTS requires timing bits after 
 the first data epilogue by jumping to   
