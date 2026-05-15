@@ -1,13 +1,13 @@
-Passport by 4am               2024-09-13
+Passport by 4am               2026-05-12
                                         
  ______________________________________ 
                                         
                                         
                                         
+T00,S05 Found Lock-It-Up protection     
 T00,S0A might be unreadable             
 Writing to S6,D2                        
 T02,S02 Volume name is DISK VOLUME 254  
-T00,S0A is unreadable (ignoring)        
 T00,S05,$25: BD8CC0 -> 6CFD08           
 T00,S05,$FE: 00 -> 20                   
 T00,S05 Erasing serial number 0000010300
